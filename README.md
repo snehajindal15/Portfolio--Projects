@@ -12,7 +12,7 @@ Key objectives:
 Tools Used:
 - Data interpretation
 - Econometric modeling
-- 
+
 Report:
 See the attached PDF for full analysis.
 
@@ -23,7 +23,7 @@ Key objectives:
 - Identify major determinants affecting insurance charges
 - Examine the impact of demographic and lifestyle variables on premiums
 - Use regression analysis to understand relationships between risk factors and insurance pricing
-- 
+
 Tools Used:
 - Statistical analysis
 - Data interpretation
